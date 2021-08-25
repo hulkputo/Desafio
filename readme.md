@@ -1,0 +1,1 @@
+para iniciar o projeto basta baixar as dependencias digitando 'npm i' e iniciar digitando 'npm start' na raiz do projeto.
