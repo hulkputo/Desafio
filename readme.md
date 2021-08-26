@@ -1,7 +1,7 @@
 # Desafio IOUU
 Para o desenvolvimento do desafio, foi utilizado:
 - Node.js;
-- MongoDB - banco hospedado na nuvem. 
+- MongoDB - banco hospedado na nuvem MongoDB Atlas. 
 
 # Como instalar
 - Clone o projeto utilizando o comando "git clone https://https://github.com/hulkputo/Desafio";
