@@ -19,4 +19,4 @@ const Doc = new Schema({
   }
 }, {versionKey: false});
 
-module.exports = mongoose.model('desafio', Doc)
+module.exports = mongoose.model('desafio-insert', Doc)
